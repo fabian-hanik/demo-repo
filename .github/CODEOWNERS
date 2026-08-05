@@ -3,7 +3,7 @@
 
 # service-specific owners
 /backend/               @fabian-hanik
-/frontend/              @spindev-copilot
+/frontend/              @fabian-hanik
 
 # CI/CD and repo configuration
-/.github/               @spindev
+/.github/               @fabian-hanik
